@@ -25,7 +25,7 @@
 **Матрица влияния**
 
 
-
+<picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Silver-g/H.W.-1md/assets/84073740/8e205787-290c-42b4-b791-4e4a80027515">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Silver-g/H.W.-1md/assets/84073740/8e205787-290c-42b4-b791-4e4a80027515">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
